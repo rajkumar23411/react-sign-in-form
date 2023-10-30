@@ -32,8 +32,8 @@ export const ContentContainer = styled.div`
         padding: 3rem 0;
     }
     @media screen and (max-width: 1050px) {
-        width: 85%;
-        height: 90%;
+        width: 93%;
+        height: 70%;
     }
 `;
 export const Logo = styled.img`
